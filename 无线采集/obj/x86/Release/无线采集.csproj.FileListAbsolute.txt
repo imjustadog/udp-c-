@@ -1,0 +1,963 @@
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Release\无线采集.exe.config
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\Interop.ADODB.dll
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\Interop.ADOX.dll
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Release\无线采集.exe
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Release\无线采集.pdb
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Release\DevComponents.DotNetBar2.dll
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Release\IrisSkin2.dll
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Release\ZedGraph.dll
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Release\Interop.ADOX.dll
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\ResolveAssemblyReference.cache
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\无线采集.CreateForm.resources
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\无线采集.Form1.resources
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\无线采集.Form2.resources
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\GenerateResource.read.1.tlog
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\GenerateResource.write.1.tlog
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\无线采集.exe
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\无线采集.pdb
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\bin\Release\无线采集.exe.config
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\无线采集.exe
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\无线采集.pdb
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\bin\Release\无线采集.exe
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\bin\Release\无线采集.pdb
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\bin\Release\Interop.ADOX.dll
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\无线采集.CreateForm.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\无线采集新\无线采集\bin\Release\无线采集.exe.config
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\Administrator\Desktop\无线采集新\无线采集\bin\Release\无线采集.exe
+C:\Users\Administrator\Desktop\无线采集新\无线采集\bin\Release\无线采集.pdb
+C:\Users\Administrator\Desktop\无线采集新\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\无线采集.CreateForm.resources
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\无线采集新\无线采集\obj\x86\Release\GenerateResource.write.1.tlog
+E:\课题\无线采集新2014.3.20\无线采集\bin\Release\无线采集.exe.config
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\Interop.ADODB.dll
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\Interop.ADOX.dll
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\无线采集.exe
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\无线采集.pdb
+E:\课题\无线采集新2014.3.20\无线采集\bin\Release\无线采集.exe
+E:\课题\无线采集新2014.3.20\无线采集\bin\Release\无线采集.pdb
+E:\课题\无线采集新2014.3.20\无线采集\bin\Release\DevComponents.DotNetBar2.dll
+E:\课题\无线采集新2014.3.20\无线采集\bin\Release\ZedGraph.dll
+E:\课题\无线采集新2014.3.20\无线采集\bin\Release\Interop.ADOX.dll
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\ResolveAssemblyReference.cache
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\无线采集.CreateForm.resources
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\无线采集.Form1.resources
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\无线采集.Form2.resources
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\GenerateResource.read.1.tlog
+E:\课题\无线采集新2014.3.20\无线采集\obj\x86\Release\GenerateResource.write.1.tlog
+E:\课题\无线采集,添加离线采集功能\无线采集\bin\Release\无线采集.exe.config
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\Interop.ADODB.dll
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\Interop.ADOX.dll
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\无线采集.exe
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\无线采集.pdb
+E:\课题\无线采集,添加离线采集功能\无线采集\bin\Release\无线采集.exe
+E:\课题\无线采集,添加离线采集功能\无线采集\bin\Release\无线采集.pdb
+E:\课题\无线采集,添加离线采集功能\无线采集\bin\Release\DevComponents.DotNetBar2.dll
+E:\课题\无线采集,添加离线采集功能\无线采集\bin\Release\ZedGraph.dll
+E:\课题\无线采集,添加离线采集功能\无线采集\bin\Release\Interop.ADOX.dll
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\ResolveAssemblyReference.cache
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\无线采集.CreateForm.resources
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\无线采集.Form1.resources
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\无线采集.Form2.resources
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\GenerateResource.read.1.tlog
+E:\课题\无线采集,添加离线采集功能\无线采集\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\bin\Release\无线采集.exe.config
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\bin\Release\无线采集.exe
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\bin\Release\无线采集.pdb
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.CreateForm.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.Form3.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.From4.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\bin\Release\无线采集.exe.config
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.exe
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.pdb
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\bin\Release\无线采集.exe
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\bin\Release\无线采集.pdb
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\bin\Release\Interop.ADOX.dll
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.CreateForm.resources
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.Form3.resources
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.From4.resources
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5\无线采集\bin\Release\无线采集.exe.config
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\bin\Release\无线采集.exe.config
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\bin\Release\无线采集.exe
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\bin\Release\无线采集.pdb
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.CreateForm.resources
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.Form3.resources
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.From4.resources
+C:\Users\Administrator\Desktop\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\bin\Release\无线采集.exe.config
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\Interop.ADODB.dll
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\Interop.ADOX.dll
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\Interop.Microsoft.Office.Core.dll
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.exe
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.pdb
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\bin\Release\无线采集.exe
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\bin\Release\无线采集.pdb
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\bin\Release\Interop.ADOX.dll
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\bin\Release\Interop.Microsoft.Office.Core.dll
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.CreateForm.resources
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.Form1.resources
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.Form2.resources
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.Form3.resources
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.From4.resources
+E:\桌面整理\无线采集,添加离线采集功能5.5 - 副本\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\bin\Release\无线采集.exe.config
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.ADODB.dll
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.ADOX.dll
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.Microsoft.Office.Core.dll
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.exe
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.pdb
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\bin\Release\无线采集.exe
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\bin\Release\无线采集.pdb
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\bin\Release\Interop.ADOX.dll
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\bin\Release\Interop.Microsoft.Office.Core.dll
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.CreateForm.resources
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Form1.resources
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Form2.resources
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Form3.resources
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.From4.resources
+E:\桌面整理\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\无线采集.exe.config
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.ADODB.dll
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.ADOX.dll
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.exe
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.pdb
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\无线采集.exe
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\无线采集.pdb
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\Interop.ADOX.dll
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.CreateForm.resources
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Form1.resources
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Form2.resources
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Form3.resources
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.From4.resources
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.Microsoft.Office.Core.dll
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\Interop.Microsoft.Office.Core.dll
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\无线采集.exe.config
+F:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.ADODB.dll
+F:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.ADOX.dll
+F:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.Office.dll
+F:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+F:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.exe
+F:\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Form3.resources
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.From4.resources
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Form3.resources
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.From4.resources
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\无线采集,添加挠度计功能\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\UDP上位机\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\UDP上位机\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 待验证\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 待验证 - 副本\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 凑合能用\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 采集均匀 带锁\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent - 副本\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 带锁 带manualresetevent 带命令发送 清理版\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\备份\3.4\udp上位机 三线程 队列版\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 未完成\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\obj\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量\无线采集\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\无线采集.exe.config
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\Interop.ADODB.dll
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\Interop.ADOX.dll
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\Interop.Microsoft.Office.Core.dll
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.exe
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.pdb
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\无线采集.exe
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\无线采集.pdb
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\FlyTcpFramework.dll
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\FlyTcpFramework.pdb
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\Interop.ADOX.dll
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\Interop.Microsoft.Office.Core.dll
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.Form1.resources
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.Form2.resources
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+E:\wifi uip udp协议\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\无线采集.ComOpen.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\无线采集.ConfrimRzero.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 回去改着玩\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\obj\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端\无线采集\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\无线采集.Form3.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\无线采集.Form4.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条\无线采集\obj\x86\Release\无线采集.Form5.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.Form3.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.Form4.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.Form5.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.Form3.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.Form4.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.Form5.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\无线采集.Form3.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\无线采集.Form4.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\无线采集.Form5.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\备份\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 fft\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\无线采集.Form3.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\无线采集.Form4.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\无线采集.Form5.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.Form3.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.Form4.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.Form5.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\Interop.Office.dll
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\无线采集.exe.config
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\Interop.ADODB.dll
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.csproj.ResolveComReference.cache
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.exe
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.pdb
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\无线采集.exe
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\无线采集.pdb
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\Interop.ADOX.dll
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.Form1.resources
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.Form2.resources
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.Form3.resources
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.Form4.resources
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.Form5.resources
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.MainFrom.resources
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.Properties.Resources.resources
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.StoreLoadData.resources
+C:\Users\zwq\Desktop\wifi\udp上位机 三线程 队列版 原子量 带回读 带回读丢帧检测 带跳帧重发 带回读正序 bug修补版 发送多线程 多客户端 丢帧检测 清空 保存 拖动条 带调零 带标定 多fft checkbox切换状态改一下\无线采集\obj\x86\Release\无线采集.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Users\zwq\Desktop\TCPIP Demo\TCPIPDemo\FlyTcpFramework\bin\Debug\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\TCPIP Demo\TCPIPDemo\FlyTcpFramework\bin\Debug\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\TCPIP Demo\TCPIPDemo\FlyTcpFramework\obj\Debug\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\TCPIP Demo\TCPIPDemo\FlyTcpFramework\obj\Debug\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\FlyTcpFramework\obj\Debug\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\FlyTcpFramework\bin\Debug\FlyTcpFramework.dll
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\FlyTcpFramework\bin\Debug\FlyTcpFramework.pdb
+C:\Users\zwq\Desktop\Zigbee安装套件\无线采集,添加挠度计功能\无线采集\FlyTcpFramework\obj\Debug\FlyTcpFramework.pdb

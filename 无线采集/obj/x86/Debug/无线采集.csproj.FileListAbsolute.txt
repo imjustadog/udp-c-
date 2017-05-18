@@ -1,0 +1,66 @@
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Debug\无线采集.exe
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Debug\无线采集.pdb
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\无线采集.Properties.Resources.resources
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\无线采集.exe
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\无线采集.pdb
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\无线采集.Form1.resources
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Debug\无线采集.exe.config
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\无线采集.Form2.resources
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\无线采集.MainFrom.resources
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Debug\IrisSkin2.dll
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Debug\DevComponents.DotNetBar2.dll
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Debug\ZedGraph.dll
+E:\课题\程序\新方案程序\无线采集\无线采集\bin\Debug\Interop.ADOX.dll
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\Interop.ADOX.dll
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\无线采集.csproj.ResolveComReference.cache
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\Interop.ADODB.dll
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\无线采集.CreateForm.resources
+E:\课题\程序\新方案程序\无线采集\无线采集\obj\x86\Debug\无线采集.ComOpen.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\bin\Debug\无线采集.exe.config
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\Interop.ADODB.dll
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\Interop.ADOX.dll
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\无线采集.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\无线采集.exe
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\无线采集.pdb
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\bin\Debug\无线采集.exe
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\bin\Debug\无线采集.pdb
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\bin\Debug\Interop.ADOX.dll
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\无线采集.ComOpen.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\无线采集.ConfrimRzero.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\无线采集.CreateForm.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\无线采集.Form1.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\无线采集.Form2.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\无线采集.MainFrom.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\无线采集.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\无线采集.StoreLoadData.resources
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\无线采集新\无线采集\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\bin\Debug\无线采集.exe.config
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.exe
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.pdb
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\bin\Debug\无线采集.exe
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\bin\Debug\无线采集.pdb
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\bin\Debug\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.ComOpen.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.ConfrimRzero.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.CreateForm.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.Form1.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.Form2.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.Form3.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.MainFrom.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.Properties.Resources.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.StoreLoadData.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.From4.resources
+C:\Users\Administrator\Desktop\无线采集资料\无线采集,添加离线采集功能5.5\无线采集\obj\x86\Debug\无线采集.csproj.GenerateResource.Cache
